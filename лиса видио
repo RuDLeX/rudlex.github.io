@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Лиса-Fox</title>
+        <meta charset="utf-8">
+    </head>
+    <style>
+    body {
+        background-color:rgb(255, 238, 0);
+    }
+        h1 {
+            color:rgb(255, 128, 0);
+        }
+        p {
+            color:rgb(255, 128, 0);
+        }
+
+        #what {
+            background-color:rgb(56, 255, 59);
+        }
+        h2 {
+            color:rgb(255, 149, 0);
+        }
+        .avtors{
+          background-color:rgb(0, 0, 255);
+        }
+        .avtors{
+          color:rgb(255, 255, 255);
+        }
+        #gg {
+          color:rgb(0, 0, 128);
+        }
+    </style>
+    <body>
+
+
+    <a href="file:///D:/RuDPLAY/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BB%D0%B8%D1%81%D0%B0"><h1 id="what">Лиса</h1></a>
+  <a href="file:///D:/RuDPLAY/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%BB%D0%B8%D1%81%D0%B0"><p id="gg">главная</p></a>
+<a href="file:///D:/RuDPLAY/%D0%BB%D0%B8%D1%81%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B8%D0%BE"<p>видео</p></a>
+    <a href="file:///D:/RuDPLAY/%D0%BB%D0%B8%D1%81%D0%B0%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8"<p>галерея</p></a>
+      <a href="http://paulrouget.com/runfield/"<p>игра про лису</p></a>
+ <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%B0"<p>википедия про лису</p></a>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/jofNR_WkoCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/D-esX9RXRS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/GNloUKUP0Pk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/kzCxFJkYqZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/t6ncDdlMHw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p class="avtors">Автор сайта: RuDLeX</p>
+    <p class="avtors">12.01.2021-2021</p>
+    </body>
+</html>
